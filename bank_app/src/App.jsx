@@ -1,15 +1,15 @@
 import styles from "./style";
 import {
-  Navbar,
-  Hero,
-  Stats,
-  Business,
   Billing,
+  Business,
   CardDeal,
-  Testimonials,
   Clients,
   CTA,
   Footer,
+  Navbar,
+  Stats,
+  Testimonials,
+  Hero,
 } from "./components";
 
 const App = () => (
